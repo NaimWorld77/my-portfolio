@@ -11,15 +11,16 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
     padding-left: 2%;
 }
 .half-width img{
-        width:100%;
+        width:95%;
         height: 140%;
-        border-radius:55%;
+        border-radius:85%;
         border: rgb(36, 89, 110) solid 2px;
 
 }
@@ -36,6 +37,18 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
    
+
+
+}
+#go-dawn{
+    padding-top:10em;
+
+
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 
 }
